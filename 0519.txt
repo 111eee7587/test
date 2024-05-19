@@ -2,4 +2,6 @@ print("hi 台灣")
 
 print("holle word")
 
+print("肚子餓了")
+
 
